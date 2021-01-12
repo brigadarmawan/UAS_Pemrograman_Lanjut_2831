@@ -1,3 +1,7 @@
+# MAHASISWA
+Nama  : Briga Darmawan
+Nim   : 19.11.2831
+
 # STUDIKASUSPROMOS 
 Aplikasi ini bertujuan seperti simulasi pembelian makanan dan minuman dengan menggunakan promo/voucher.
 
